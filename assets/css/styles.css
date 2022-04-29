@@ -1,0 +1,28 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+    font-size: 15px;
+}
+ul#horizontal-list{
+    list-style: none;
+    text-align: right;
+}
+ul#horizontal-list li{
+    display: inline;
+    padding: 6px;
+}
+.enroll{
+    background-color: #EC4067;
+}
+div#moringa a{
+    background-color: #EC4067;
+    border-radius: 5px;
+    padding: 10px;
+}
+.group1{
+    width: 500px;
+    float: left;
+}
+img{
+    height: 300px;
+    float: right;
+}
