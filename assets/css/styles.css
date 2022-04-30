@@ -25,16 +25,13 @@ button{
 .heading_color{
     color: #EC4067;
 }
-.group1{
-    height: auto;
-    width: 50%;
-    clear: left;
+.image{
+    position: relative;
+    margin: 3%;
 }
-.group2{
-    display: inline;
-    padding-top: 10px;
-}
-img{
-    height: 450px;
-    float: right;
+.name{
+    position: absolute;
+    bottom: 20px;
+    left: 10px;
+    color: #ffffff;
 }
