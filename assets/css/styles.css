@@ -10,13 +10,20 @@ ul#horizontal-list li{
     display: inline;
     padding: 6px;
 }
-.enroll{
+button{
     background-color: #EC4067;
-}
-div#moringa a{
-    background-color: #EC4067;
+    color: #ffffff;
+    border: none;
     border-radius: 5px;
-    padding: 10px;
+    padding: 5px;
+}
+#explore{
+    background-color: #ffffff;
+    color: #EC4067;
+    border: solid #EC4067 1px;
+}
+.heading_color{
+    color: #EC4067;
 }
 .group1{
     height: auto;
