@@ -2,6 +2,14 @@ body{
     font-family: 'Nunito', sans-serif;
     font-size: 15px;
 }
+.nav{
+    margin: auto;
+    display: flex;
+    width: 90%;
+    justify-content: space-between;
+    padding-bottom: 12px;
+    padding-top: 30px;
+}
 ul#horizontal-list{
     list-style: none;
     text-align: right;
@@ -37,17 +45,26 @@ button{
     left: 10px;
     color: #ffffff;
 }
-.nav{
-    margin: auto;
-    display: flex;
-    width: 90%;
-    justify-content: space-between;
-    padding-bottom: 12px;
-    padding-top: 30px;
+.align1{
+    float: left;
+    width: 40%;
 }
-.image1{
-    float: right;
-    width: 70%;
+.img1{
+    float: left;
+    width: 60%;
+    height: 400px;
+}
+.align2{
+    display: inline-block;
+    
+}
+.img2{
+    display: inline-block;
+    margin: 0%;
+    width: 40%;
+}
+.img3{
+    width: 40%%
 }
 
 div.mentor{
@@ -61,9 +78,21 @@ div.mentor{
 .caption{
     display: block;
 }
-
+.row1{
+    display: flex;
+}
 .row::after{
     content: "";
     clear: both;
     display: table;
+}
+.mentor{
+    display: flex;
+}
+.mentor img{
+    width: 300px;
+}
+.bike{
+    width: 650px;
+    height: 350px;
 }
