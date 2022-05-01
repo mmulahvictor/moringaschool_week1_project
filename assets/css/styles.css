@@ -40,6 +40,7 @@ button{
 .nav{
     margin: auto;
     display: flex;
+    width: 90%;
     justify-content: space-between;
     padding-bottom: 12px;
     padding-top: 30px;
@@ -47,4 +48,22 @@ button{
 .image1{
     float: right;
     width: 70%;
+}
+
+div.mentor{
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    width: 125px;
+    width: 25%;
+    padding: 5px;
+}
+.caption{
+    display: block;
+}
+
+.row::after{
+    content: "";
+    clear: both;
+    display: table;
 }
