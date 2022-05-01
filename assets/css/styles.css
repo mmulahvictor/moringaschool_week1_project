@@ -1,5 +1,5 @@
 body{
-    font-family: Nunito;
+    font-family: 'Nunito', sans-serif;
     font-size: 15px;
 }
 ul#horizontal-list{
@@ -21,6 +21,8 @@ button{
     background-color: #ffffff;
     color: #EC4067;
     border: solid #EC4067 1px;
+    margin-left: 10px;
+    width: 90px;
 }
 .heading_color{
     color: #EC4067;
@@ -34,4 +36,15 @@ button{
     bottom: 20px;
     left: 10px;
     color: #ffffff;
+}
+.nav{
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 12px;
+    padding-top: 30px;
+}
+.image1{
+    float: right;
+    width: 70%;
 }
