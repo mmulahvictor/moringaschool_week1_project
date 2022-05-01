@@ -8,7 +8,7 @@ This page is supposed to improve the design of Moringa School landing page. It h
 * You need to have a phone, ipad or a computer.
 * Internet access.
 * A browser i.e chrome.
-* A [link](https://mmulahvictor.github.io/moringaschool_week1_project/) to the page.
+* A [link to the page.](https://mmulahvictor.github.io/moringaschool_week1_project/)
 This page has index.html on the root folder, assets"index.css and images", a README.md file
 ## Known Bugs
 There are no known bugs for now.
