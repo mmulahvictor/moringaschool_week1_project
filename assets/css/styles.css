@@ -18,6 +18,12 @@ ul#horizontal-list li{
     display: inline;
     padding: 6px;
 }
+.title{
+    color: #EC4067;
+}
+#title{
+    color: black;
+}
 button{
     background-color: #EC4067;
     color: #ffffff;
@@ -62,9 +68,16 @@ button{
     display: inline-block;
     margin: 0%;
     width: 40%;
+    
+}
+.align3{
+    float: left;
+    width: 40%;
 }
 .img3{
-    width: 40%%
+    width: 700px;
+    height: 500px;
+    float: left;
 }
 
 div.mentor{
@@ -95,4 +108,7 @@ div.mentor{
 .bike{
     width: 650px;
     height: 350px;
+}
+.graduation{
+    width: 300px;
 }
